@@ -1,6 +1,14 @@
 # Fusée Gelée
 
 ```
+# Install dependencies
+pipenv install
+
+# Run
+pipenv run sudo python3 fusee-launcher.py fusee.bin
+```
+
+```
                                       *     .--.
                                            / /  `
                           +               | |
